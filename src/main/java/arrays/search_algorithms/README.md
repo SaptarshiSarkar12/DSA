@@ -7,3 +7,4 @@ Searching is the process of finding a specific element or value within a data st
 ## Types of Search Algorithms
 
 1. [**Linear Search**](linear_search): A simple search algorithm that checks each element in a list sequentially until the desired element is found or the end of the list is reached.
+2. [**Binary Search**](binary_search): An efficient search algorithm that follows the **divide-and-conquer** strategy to locate a target element within a sorted array, repeatedly halving the search space until the element is found (or confirmed absent).
