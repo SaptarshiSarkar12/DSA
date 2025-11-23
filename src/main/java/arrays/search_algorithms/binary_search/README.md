@@ -5,7 +5,7 @@
 Binary Search is an efficient algorithm used to find the position of a target element in a **sorted array**. It works by repeatedly dividing the search space in half which significantly reduces the number of comparisons made.
 
 Learn more about **binary search** in detail in the [Binary Search article](https://saptarshisarkar.hashnode.dev/everything-you-need-to-know-about-binary-search).
-Alternative link to the article: 
+Alternative link to the article: https://dev.to/saptarshisarkar/everything-you-need-to-know-about-binary-search-b15/
 
 ## Questions
 
@@ -18,4 +18,4 @@ Alternative link to the article:
 7. [**[1095] Find in Mountain Array**](questions/SearchInMountain.java): [Question](https://leetcode.com/problems/find-in-mountain-array/)
 8. [**[33] Search in Rotated Sorted Array**](questions/SearchInRotated.java): [Question](https://leetcode.com/problems/search-in-rotated-sorted-array/description/)
 9. [**Rotation Count in a Rotated Sorted array**](questions/RotationCount.java): [Question](https://www.geeksforgeeks.org/dsa/find-rotation-count-rotated-sorted-array/)
-10. [**[410] Split Array Largest Sum**](questions/): [Question](https://leetcode.com/problems/split-array-largest-sum/description/)
+10. [**[410] Split Array Largest Sum**](questions/LargestSum.java): [Question](https://leetcode.com/problems/split-array-largest-sum/description/)
