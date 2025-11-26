@@ -11,3 +11,4 @@ This repository is dedicated to my journey in learning **Data Structures and Alg
   - [Binary Search](src/main/java/arrays/search_algorithms/binary_search)
 - [Sorting Algorithms](src/main/java/arrays/sorting_algorithms/README.md)
   - [Bubble Sort](src/main/java/arrays/sorting_algorithms/bubble_sort)
+  - [Selection Sort](src/main/java/arrays/sorting_algorithms/selection_sort)
