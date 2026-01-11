@@ -13,3 +13,4 @@ This repository is dedicated to my journey in learning **Data Structures and Alg
   - [Bubble Sort](src/main/java/arrays/sorting_algorithms/bubble_sort)
   - [Selection Sort](src/main/java/arrays/sorting_algorithms/selection_sort)
   - [Insertion Sort](src/main/java/arrays/sorting_algorithms/insertion_sort)
+  - [Cyclic Sort](src/main/java/arrays/sorting_algorithms/cyclic_sort)
